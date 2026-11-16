@@ -21,4 +21,4 @@ Built as a static website for GitHub Pages. No build step or third-party JavaScr
 ## Maintaining this website
 Edit `index.html` to update projects, skills, and experience, then commit the changes to `main`. The project section should be reviewed each quarter.
 
-**Contact:** zeroliusiyuan@gmail.com
+**Contact:** siyuan9@uw.edu
